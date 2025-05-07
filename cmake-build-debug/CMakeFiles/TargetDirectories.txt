@@ -1,0 +1,4 @@
+/mnt/e/Xserver/cmake-build-debug/CMakeFiles/echo_server.dir
+/mnt/e/Xserver/cmake-build-debug/CMakeFiles/echo_client.dir
+/mnt/e/Xserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/Xserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
